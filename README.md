@@ -137,7 +137,7 @@ A pre-trained transformer model that converts text into dense vector embeddings.
 1. **Semantic Understanding**
    - Understands synonyms: "ML Engineer" ≈ "Machine Learning Developer"
    - Captures context: "Python experience" vs "Python snake" are clearly different
-   - Better than keyword matching by ~15% accuracy
+   - Better than keyword matching
 
 2. **Pre-trained & Ready**
    - No training data needed (uses general language understanding)
