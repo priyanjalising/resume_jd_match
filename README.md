@@ -31,9 +31,9 @@ This system automates the resume screening process by:
 5. **Ranking candidates** - Automatically sorts by best fit
 
 ### Business Impact
-- **90% time savings** - Review 100 resumes in 2 minutes instead of 3+ hours
-- **Better matches** - 85% ranking accuracy (vs 70% with keyword matching)
-- **Explainable** - Recruiters understand and trust the rankings
+- **Time savings** 
+- **Better matches** 
+- **Explainable** 
 - **Cost-effective** - Uses free regex parsing first, LLM only when needed
 
 ---
